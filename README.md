@@ -1,4 +1,4 @@
-# gestion_de_stock_spring
+# Gestion de stock - Spring Boot
 
 ## Objectif
 
