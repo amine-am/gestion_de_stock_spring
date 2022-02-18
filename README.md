@@ -22,7 +22,7 @@ Pour simplifier notre cas nous allons travailler sur une base de mémoire H2.
 
 <p align="middle">
   <img src="https://user-images.githubusercontent.com/65272079/154681327-7ade7a8f-c78e-4f15-a7de-7f5afb36cd89.png" />
-  <img src="https://user-images.githubusercontent.com/65272079/154681490-6872f9a7-6e93-4c6b-ae7b-cfa5067d8ab9.png" />
+  <img src="https://user-images.githubusercontent.com/65272079/154682919-30ab5719-2263-479e-830e-e574a6b15e21.png" />
 </p>
 
 <p align="middle">
